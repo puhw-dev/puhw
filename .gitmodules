@@ -1,3 +1,6 @@
 [submodule "doc"]
 	path = doc
 	url = git@github.com:puhw-dev/doc.git
+[submodule "WebClient"]
+	path = WebClient
+	url = https://github.com/puhw-dev/WebClient.git
