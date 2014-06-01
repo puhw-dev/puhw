@@ -4,3 +4,6 @@
 [submodule "WebClient"]
 	path = WebClient
 	url = https://github.com/puhw-dev/WebClient.git
+[submodule "catalog"]
+	path = catalog
+	url = git@github.com:puhw-dev/Catalog.git
