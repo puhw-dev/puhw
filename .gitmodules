@@ -7,3 +7,6 @@
 [submodule "catalog"]
 	path = catalog
 	url = git@github.com:puhw-dev/Catalog.git
+[submodule "UDP_communication"]
+	path = UDP_communication
+	url = git@github.com:puhw-dev/UDP_communication.git
