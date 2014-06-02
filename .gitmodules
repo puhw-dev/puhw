@@ -1,6 +1,3 @@
 [submodule "doc"]
 	path = doc
 	url = git@github.com:puhw-dev/doc.git
-[submodule "UDP_communication"]
-	path = UDP_communication
-	url = ../UDP_communication/
