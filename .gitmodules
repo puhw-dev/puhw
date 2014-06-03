@@ -10,3 +10,6 @@
 [submodule "UDP_communication"]
 	path = UDP_communication
 	url = git@github.com:puhw-dev/UDP_communication.git
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/puhw-dev/Monitor.git
