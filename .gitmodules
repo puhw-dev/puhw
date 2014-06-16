@@ -1,3 +1,18 @@
 [submodule "doc"]
 	path = doc
 	url = git@github.com:puhw-dev/doc.git
+[submodule "WebClient"]
+	path = WebClient
+	url = https://github.com/puhw-dev/WebClient.git
+[submodule "catalog"]
+	path = catalog
+	url = git@github.com:puhw-dev/Catalog.git
+[submodule "UDP_communication"]
+	path = UDP_communication
+	url = git@github.com:puhw-dev/UDP_communication.git
+[submodule "monitor"]
+	path = monitor
+	url = https://github.com/puhw-dev/Monitor.git
+[submodule "Sensors"]
+	path = Sensors
+	url = git@github.com:puhw-dev/Sensors.git
